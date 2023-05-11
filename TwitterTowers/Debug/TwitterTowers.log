@@ -1,0 +1,3 @@
+﻿  TwitterTowers.cpp
+D:\עתידה\S\TwitterTowers\TwitterTowers.cpp(20,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TwitterTowers.vcxproj -> D:\עתידה\S\TwitterTowers\Debug\TwitterTowers.exe
