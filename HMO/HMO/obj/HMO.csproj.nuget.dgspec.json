@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\הדסים\\HMO\\HMO\\HMO.csproj": {}
+    "D:\\Sara Amor\\HMO\\HMO\\HMO.csproj": {}
   },
   "projects": {
-    "D:\\הדסים\\HMO\\HMO\\HMO.csproj": {
+    "D:\\Sara Amor\\HMO\\HMO\\HMO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\הדסים\\HMO\\HMO\\HMO.csproj",
+        "projectUniqueName": "D:\\Sara Amor\\HMO\\HMO\\HMO.csproj",
         "projectName": "HMO",
-        "projectPath": "D:\\הדסים\\HMO\\HMO\\HMO.csproj",
+        "projectPath": "D:\\Sara Amor\\HMO\\HMO\\HMO.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "D:\\הדסים\\HMO\\HMO\\obj\\",
+        "outputPath": "D:\\Sara Amor\\HMO\\HMO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\הדסים\\HMO\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\הדסים\\HMO\\Repositories\\Repositories.csproj"
+              "D:\\Sara Amor\\HMO\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\Sara Amor\\HMO\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "D:\\הדסים\\HMO\\Repositories\\Repositories.csproj": {
+    "D:\\Sara Amor\\HMO\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\הדסים\\HMO\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\Sara Amor\\HMO\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\הדסים\\HMO\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\Sara Amor\\HMO\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "D:\\הדסים\\HMO\\Repositories\\obj\\",
+        "outputPath": "D:\\Sara Amor\\HMO\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

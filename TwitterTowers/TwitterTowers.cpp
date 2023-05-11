@@ -19,7 +19,6 @@ void triangularPerimeter(int width, int height) {
     int r = height * height + (width / 2) * (width / 2);
     r = sqrt(r);
     cout << "perimeter " << r * 2 + width << endl;
-    //menu();
 }
 
 void printTriangular(int width, int height) {
@@ -58,7 +57,6 @@ void printTriangular(int width, int height) {
             }
         }
     }
-    // menu();
 }
 
 void triangular(int width, int height) {
